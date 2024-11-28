@@ -1,6 +1,6 @@
 # Diabetes Prediction Using Logistic Regression
 
-This project builds a machine learning model to predict diabetes based on patient data. The dataset is processed and modeled using **Logistic Regression**, with performance evaluated on both training and test datasets. The project also explores Ridge regularization (`L2` penalty) to improve model performance.
+This project builds a machine learning model to predict diabetes based on patient data. The dataset is processed and modeled using **Logistic Regression**, with performance evaluated on both training and test datasets. The project also explores Ridge regularization (`L2` penalty) to try to improve model performance.
 
 ## Features
 
